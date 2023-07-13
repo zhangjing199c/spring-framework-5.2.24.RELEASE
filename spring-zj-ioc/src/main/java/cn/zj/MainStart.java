@@ -14,5 +14,6 @@ public class MainStart {
 		UserServiceImpl bean = context.getBean(UserServiceImpl.class);
 		bean.sayHi();
 
+
 	}
 }
